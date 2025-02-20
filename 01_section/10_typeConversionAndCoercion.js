@@ -20,7 +20,7 @@ console.log("23" - "10" - 3); // 10
 
 let n = "1" + 1; // it will converts to string
 console.log(n);
-n = n - 1;
+n = n - 1; // it will converts to number
 console.log(n); // it will minus with string, bacause its possible in JS
 
 // Note: string will converts others to string when "+" operator is used and then other operator used like "-", "*", "/", and "%" then it will converts string into number
