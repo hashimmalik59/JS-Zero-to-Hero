@@ -1,6 +1,6 @@
 // Type Conversion and Coercion
 
-// type conversion
+// type conversion(converts manually)
 let ageInString = "23"; // original value type is still same
 console.log(typeof ageInString); // string
 console.log(typeof Number(ageInString), typeof ageInString); // built-in function(converts value into "number") // number
@@ -10,7 +10,7 @@ console.log(typeof NaN); // number
 
 console.log(String(23), 23);
 
-// type coercion
+// type coercion(converts automatically)
 console.log("My age is" + " " + 23); // it will convert number to string bacause of concate
 console.log("23" - "10" - 3); // 10
 
