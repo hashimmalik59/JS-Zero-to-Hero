@@ -18,3 +18,5 @@ fullName(("Hashim", "Malik")); // in invoking "("Hashim", "Malik")" it is called
 
 // console.log() // this is built-in function
 // Nummber() // this is built-in function
+
+// Note: We cannot use any code after "return" keyword
