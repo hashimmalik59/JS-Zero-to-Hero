@@ -12,7 +12,7 @@
 // console.log("Weight Lift rep 10");
 
 // for loop keep running while condition is TRUE
-for (let rep = 1; rep <= 10; rep++) {
+for (let rep = 1; rep <= 20; rep++) {
     console.log(`Weight Lift rep ${rep}`);
 }
 
